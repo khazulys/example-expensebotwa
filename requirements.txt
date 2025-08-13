@@ -1,0 +1,3 @@
+pywabot
+google-genai
+python-dotenv
